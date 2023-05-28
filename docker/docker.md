@@ -4,7 +4,7 @@
 
 ###  1. docker的基本结构
 
-![docker基本结构](D:\文档\markdown笔记\docker\docker基本结构.webp)
+![docker基本结构](./docker基本结构.webp)
 
 **image(镜像)**： 
 
@@ -298,7 +298,7 @@ docker cp 55321bcae33d:/java.java /home
 
 Docker所有命令
 
-![docker命令](D:\文档\markdown笔记\docker\docker命令.webp)
+![docker命令](./docker命令.webp)
 
 ## 三、Docker镜像讲解
 
